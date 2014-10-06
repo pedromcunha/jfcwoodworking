@@ -1,0 +1,22 @@
+{
+  "name": "JFCwoodworking",
+  "version": "0.0.0",
+  "description": "Website for JFCwoodworking",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/pedromcunha/jfcwoodworking.git"
+  },
+  "author": "Pedro M. Cunha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pedromcunha/jfcwoodworking/issues"
+  },
+  "homepage": "https://github.com/pedromcunha/jfcwoodworking",
+  "devDependencies": {
+    "bootstrap": "^3.2.0"
+  }
+}
